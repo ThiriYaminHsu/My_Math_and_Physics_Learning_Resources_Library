@@ -1,8 +1,10 @@
-# Theoretical-Physics-SelfStudy
+# Theoretical-Physics-Self-Study
 
-This repository documents my self-study journey in Theoretical Physics, guided by the insights shared by Nobel Laureate Gerard 't Hooft. The guidelines outlined by Professor 't Hooft, particularly in his resource "How to become a GOOD Theoretical Physicist," have been a cornerstone of my learning experience. In addition to serving as a record of my exploration into theoretical physics, this repository also hosts my study notes on various topics.
+This repository documents my self-study in Theoretical Physics, guided by the Nobel Laureate Gerard 't Hooft and the graduate-level courses from the Perimeter Institute. 
 
-## Curriculum
+### Graduate-level Theoretical Physics courses from the Perimeter Institute
+- [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics/pdfs/20776045-course-overview)
+- 
 
 ### PRIMARY MATHEMATICS
 - Dave E. Joyce's trigonometry course
@@ -92,6 +94,3 @@ This repository documents my self-study journey in Theoretical Physics, guided b
 
 ## Acknowledgments
 
-I extend my sincere gratitude to Professor Gerard 't Hooft for generously providing the guidelines that have been instrumental in shaping this self-study journey into theoretical physics. His dedication to the field and commitment to sharing knowledge have been an invaluable source of inspiration.
-
-Thank you, Professor Gerard 't Hooft, for your unwavering contribution to the world of theoretical physics and for empowering aspiring learners like me with the tools to embark on this intellectual exploration.
