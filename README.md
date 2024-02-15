@@ -3,8 +3,8 @@
 This repository documents my self-study in Theoretical Physics, guided by the Nobel Laureate Gerard 't Hooft and the graduate-level courses from the Perimeter Institute. 
 
 ### Graduate-level Theoretical Physics courses from the Perimeter Institute
-- [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics/pdfs/20776045-course-overview)
-- 
+- [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
+- [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/take/quantum-field-theory-i-student)
 
 ### PRIMARY MATHEMATICS
 - Dave E. Joyce's trigonometry course
