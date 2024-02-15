@@ -5,6 +5,7 @@ This repository documents my self-study in Theoretical Physics, guided by the No
 ### Graduate-level Theoretical Physics courses from the Perimeter Institute
 - [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
 - [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/take/quantum-field-theory-i-student)
+- [Theoretical Mechanics](https://psi-online.perimeterinstitute.ca/courses/take/theoretical-mechanics)
 
 ### PRIMARY MATHEMATICS
 - Dave E. Joyce's trigonometry course
