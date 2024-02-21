@@ -1,6 +1,4 @@
-# Theoretical-Physics-Self-Study
-
-This repository documents my self-study in Theoretical Physics, guided by the Nobel Laureate Gerard 't Hooft and the graduate-level courses from the Perimeter Institute. 
+# Theoretical-Physics-Learning-Resources
 
 ### Graduate-level Theoretical Physics courses from the Perimeter Institute
 - [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
