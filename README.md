@@ -1,4 +1,4 @@
-# Theoretical-Physics-Learning-Resources
+# Math-and-Physics-Learning-Resources
 
 ### Graduate-level Theoretical Physics courses from the Perimeter Institute
 - [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
