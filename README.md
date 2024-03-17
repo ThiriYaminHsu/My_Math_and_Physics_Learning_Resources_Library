@@ -6,10 +6,10 @@
 - [Theoretical Mechanics](https://psi-online.perimeterinstitute.ca/courses/take/theoretical-mechanics)
 
 ### PRIMARY MATHEMATICS
-- Dave E. Joyce's trigonometry course
-- Beginning Algebra (West Texas A&M)
-- Intermediate Algebra (West Texas A&M)
-- Prof. James Binney's course on complex numbers (PDF)
+- [Dave E. Joyce's trigonometry course](https://www2.clarku.edu/faculty/djoyce/trig/)
+- [Beginning Algebra (West Texas A&M)](https://www.wtamu.edu/academic/anns/mps/math/mathlab/beg_algebra/)
+- [Intermediate Algebra (West Texas A&M)](https://www.wtamu.edu/academic/anns/mps/math/mathlab/int_algebra/index.htm)
+- [Prof. James Binney's course on complex numbers (PDF)](https://www-thphys.physics.ox.ac.uk/people/JamesBinney/complex.pdf)
 - (nearly) complete overview of primary mathematics (K.Kubota, Kentucky)
 - Chris Pope's lecture notes
 - The complex plane. Cauchy theorems and contour integration (G. Cain, Atlanta)
