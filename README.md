@@ -25,16 +25,6 @@
 - A good set of Lecture notes from Harvard.
 - A short course on Classical Mechanics by Prof. J. J. Binney
 
-### OPTICS
-- Fraction and reflection.
-- Lenses and mirrors.
-- The telescope and the microscope.
-- Introduction to wave propagation.
-- Doppler effect.
-- Huijgens' principle of wave superposition.
-- Wave fronts.
-- Caustics.
-
 ### STATISTICAL MECHANICS & THERMODYNAMICS
 - The first, second and third laws of thermodynamics.
 - The Boltzmann distribution.
@@ -58,38 +48,5 @@
 - Prof. Mathews' projects on Numerical Analysis
 
 ### QUANTUM MECHANICS (NON-RELATIVISTIC)
-
-### ATOMS & MOLECULES
-
-### SOLID STATE PHYSICS
-
-### NUCLEAR PHYSICS
-
-### PLASMA PHYSICS
-
-### ADVANCED MATHEMATICS
-
-### SPECIAL RELATIVITY
-
-### ADVANCED QUANTUM MECHANICS
-
-### PHENOMENOLOGY
-
-### GENERAL RELATIVITY
-
-### COSMOLOGY
-
-### ASTRO-PHYSICS & ASTRONOMY
-
-### QUANTUM FIELD THEORY
-
-### SUPERSYMMETRY & SUPERGRAVITY
-
-### ASTRO PARTICLE PHYSICS
-
-### SUPER STRING THEORY
-
-### TEXTS & OTHER RESOURCES
-
-## Acknowledgments
+- 
 
