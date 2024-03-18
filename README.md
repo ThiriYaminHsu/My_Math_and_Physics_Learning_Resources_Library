@@ -1,9 +1,31 @@
-# Math-and-Physics-Learning-Resources
+# Math-and-Physics-Learning-Resources 
 
-### Graduate-level Theoretical Physics courses from the Perimeter Institute
+## Graduate-level Theoretical Physics courses from the Perimeter Institute
 - [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
 - [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/take/quantum-field-theory-i-student)
 - [Theoretical Mechanics](https://psi-online.perimeterinstitute.ca/courses/take/theoretical-mechanics)
+
+## Massachusetts Institute of Technology [MITOPENCOURSEWARE](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
+
+### Mathematics
+- [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)
+- [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/)
+- [18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+- [18.06 Linear Algebra (18.06)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/)
+
+### Physics
+- [8.01 Physics I: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)
+- [8.02 Physics II: Electricity And Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)
+- [8.03 Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/syllabus/)
+- [8.07 Electromagnetism II](https://www.ocw.somaliren.org.so/courses/physics/8-07-electromagnetism-ii-fall-2012/index.htm)
+
+### Quantum Physics
+- [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/syllabus/)
+- [8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/syllabus/)
+- [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)
+- [8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)
+
+## [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
 
 ### PRIMARY MATHEMATICS
 - [Dave E. Joyce's trigonometry course](https://www2.clarku.edu/faculty/djoyce/trig/)
