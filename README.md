@@ -1,11 +1,11 @@
-# Math-and-Physics-Learning-Resources 
+**Math-and-Physics-Learning-Resources**
 
-## Graduate-level Theoretical Physics courses from the Perimeter Institute
+**Graduate-level Theoretical Physics courses from the Perimeter Institute**
 - [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
 - [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/take/quantum-field-theory-i-student)
 - [Theoretical Mechanics](https://psi-online.perimeterinstitute.ca/courses/take/theoretical-mechanics)
 
-## Massachusetts Institute of Technology [MITOPENCOURSEWARE](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
+**Massachusetts Institute of Technology [MITOPENCOURSEWARE](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)**
 
 ### Mathematics
 - [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)
@@ -25,7 +25,7 @@
 - [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)
 - [8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)
 
-## [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
+**[How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)**
 
 ### PRIMARY MATHEMATICS
 - [Dave E. Joyce's trigonometry course](https://www2.clarku.edu/faculty/djoyce/trig/)
@@ -68,7 +68,4 @@
 - Mathematica for Students of Science by James Kelly
 - Angus MacKinnon, Computational Physics
 - Prof. Mathews' projects on Numerical Analysis
-
-### QUANTUM MECHANICS (NON-RELATIVISTIC)
-- 
 
