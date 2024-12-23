@@ -1,6 +1,6 @@
 ## Open-Access Math and Physics Learning Materials
 
-### [Massachusetts Institute of Technology; MITOCW](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
+### [Massachusetts Institute of Technology OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
 
 **Mathematics**
 - [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)
@@ -19,11 +19,15 @@
 - [8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/syllabus/)
 - [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)
 - [8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)
+  
+---
 
 ### [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 - [Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html): mainly mechanics, radiation, and heat
 - [Volume II](https://www.feynmanlectures.caltech.edu/II_toc.html): mainly electromagnetism and matter
 - [Volume III](https://www.feynmanlectures.caltech.edu/III_toc.html): quantum mechanics
+
+---
 
 ### [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
 
@@ -68,6 +72,8 @@
 - Mathematica for Students of Science by James Kelly
 - Angus MacKinnon, Computational Physics
 - Prof. Mathews' projects on Numerical Analysis
+
+---
 
 ### [Gaduate-level Theoretical Physics courses from the Perimeter Institute]()
 - [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
