@@ -28,6 +28,22 @@
 - [Volume III](https://www.feynmanlectures.caltech.edu/III_toc.html): quantum mechanics
 
 ---
+### [Gaduate-level Theoretical Physics courses from the Perimeter Institute]()
+- [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
+- [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/take/quantum-field-theory-i-student)
+- [Theoretical Mechanics](https://psi-online.perimeterinstitute.ca/courses/take/theoretical-mechanics)
+
+---
+
+### [The Theoretical Minimum by Leonard Susskind](https://theoreticalminimum.com/about)
+- [Classical Mechanics](https://theoreticalminimum.com/courses/classical-mechanics/2011/fall)
+- [Quantum Mechanics](https://theoreticalminimum.com/courses/quantum-mechanics/2012/winter)
+- [Special Relativity and Electrodynamics](https://theoreticalminimum.com/courses/special-relativity-and-electrodynamics/2012/spring)
+- [General Relativity](https://theoreticalminimum.com/courses/general-relativity/2012/fall)
+- [Cosmology](https://theoreticalminimum.com/courses/cosmology/2013/winter)
+- [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring)
+
+---
 
 ### [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
 
@@ -74,9 +90,3 @@
 - Prof. Mathews' projects on Numerical Analysis
 
 ---
-
-### [Gaduate-level Theoretical Physics courses from the Perimeter Institute]()
-- [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
-- [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/take/quantum-field-theory-i-student)
-- [Theoretical Mechanics](https://psi-online.perimeterinstitute.ca/courses/take/theoretical-mechanics)
-
