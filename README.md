@@ -1,4 +1,4 @@
-### Open-Access CS, Math and Physics Learning Materials
+### Open-Access CS, Math, Physics Learning Materials
 
 
 #### [MIT OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
