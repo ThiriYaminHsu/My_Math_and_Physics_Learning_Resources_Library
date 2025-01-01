@@ -69,14 +69,28 @@
 
 ---
 
+#### [IQM Academy](https://www.iqmacademy.com/)
+
+---
+
 #### [The Alen Turing Institute's The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
 
 ---
 
 #### [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
 
----
+### [The Coding School](https://the-cs.org/)
+
+#### [PennyLane](https://pennylane.ai/)
+
+#### [Qiskit Textbook](https://github.com/qiskit-community/qiskit-textbook)
+
+#### [Ingenii](https://www.ingenii.io/)
+
+#### [QWorld]()
 
 #### [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/)
+
+
 
 
