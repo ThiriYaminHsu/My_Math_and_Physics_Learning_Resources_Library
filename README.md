@@ -28,10 +28,13 @@
 - [Volume III](https://www.feynmanlectures.caltech.edu/III_toc.html): quantum mechanics
 
 ---
-### [Gaduate-level Theoretical Physics courses from the Perimeter Institute]()
+### [Perimeter Scholars International's free online learning modules](https://perimeterinstitute.ca/online-courses)
+- [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/quantum-field-theory-i-student)
+- [Quantum Field Theory II](https://psi-online.perimeterinstitute.ca/courses/quantum-field-theory-ii-student)
+- [Quantum Matter](https://psi-online.perimeterinstitute.ca/courses/condensed-matter-iii-student)
+- [Cosmology](https://psi-online.perimeterinstitute.ca/courses/cosmology)
 - [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
-- [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/take/quantum-field-theory-i-student)
-- [Theoretical Mechanics](https://psi-online.perimeterinstitute.ca/courses/take/theoretical-mechanics)
+- [Theoretical Mechanics](https://psi-online.perimeterinstitute.ca/courses/theoretical-mechanics)
 
 ---
 
