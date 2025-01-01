@@ -1,6 +1,6 @@
-## Open-Access Math and Physics Learning Materials
+## Open-Access CS, Math and Physics Learning Materials
 
-### [Massachusetts Institute of Technology OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
+### [MIT OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
 
 **Mathematics**
 - [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)
@@ -48,48 +48,19 @@
 
 ---
 
-### [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
+### [Open HPI](https://open.hpi.de/courses)
 
-**PRIMARY MATHEMATICS**
-- [Dave E. Joyce's trigonometry course](https://www2.clarku.edu/faculty/djoyce/trig/)
-- [Beginning Algebra (West Texas A&M)](https://www.wtamu.edu/academic/anns/mps/math/mathlab/beg_algebra/)
-- [Intermediate Algebra (West Texas A&M)](https://www.wtamu.edu/academic/anns/mps/math/mathlab/int_algebra/index.htm)
-- [Prof. James Binney's course on complex numbers (PDF)](https://www-thphys.physics.ox.ac.uk/people/JamesBinney/complex.pdf)
-- (nearly) complete overview of primary mathematics (K.Kubota, Kentucky)
-- Chris Pope's lecture notes
-- The complex plane. Cauchy theorems and contour integration (G. Cain, Atlanta)
-
-**CLASSICAL MECHANICS**
-- Static mechanics (forces, tension); hydrostatics. Newton's Laws.
-- The elliptical orbits of planets. The many-body system.
-- The action principle. Hamilton's equations. The Lagrangean. (Don't skip - extremely important!)
-- The harmonic oscillator. The pendulum.
-- Poisson's brackets.
-- Wave equations. Liquids and gases. The Navier-Stokes equations. Viscosity and friction
-- An intermediate level course on Analytical Classical Dynamics by R. Fitzpatrick, Univ. of Texas, Austin.
-- A good set of Lecture notes from Harvard.
-- A short course on Classical Mechanics by Prof. J. J. Binney
-
-**STATISTICAL MECHANICS & THERMODYNAMICS**
-- The first, second and third laws of thermodynamics.
-- The Boltzmann distribution.
-- The Carnot cycle. Entropy. Heat engines.
-- Phase transitions. Thermodynamical models.
-- The Ising Model (postpone techniques to solve the 2-dimensional Ising Model to later).
-- Planck's radiation law (as a prelude to Quantum Mechanics)
-
-**ELECTRONICS**
-- Ohm's law, capacitors, inductors, using complex numbers to calculate their effects.
-- Transistors, diodes (how these actually work comes later).
-
-**ELECTROMAGNETISM**
-- Maxwell's Theory for electromagnetism: homogeneous and inhomogeneous
-- Maxwell's laws in a medium. Boundaries.
-- W.J.Spence, Electromagnetism
-
-**COMPUTATIONAL PHYSICS**
-- Mathematica for Students of Science by James Kelly
-- Angus MacKinnon, Computational Physics
-- Prof. Mathews' projects on Numerical Analysis
 
 ---
+
+### [The Alen Turing Institute's The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
+
+---
+
+### [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
+
+---
+
+### [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/)
+
+
