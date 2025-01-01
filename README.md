@@ -79,7 +79,7 @@
 
 #### [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
 
-### [The Coding School](https://the-cs.org/)
+#### [The Coding School](https://the-cs.org/)
 
 #### [PennyLane](https://pennylane.ai/)
 
