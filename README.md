@@ -1,32 +1,18 @@
-### Open-Access CS, Math, Physics Learning Materials
+## Open-Access CS, Math, Physics Learning Materials
 
 
-#### [MIT OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
+### [MIT OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
 
-*Mathematics*
-
-- [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)
-- [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/)
-- [18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
-- [18.06 Linear Algebra (18.06)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/)
-
-*Physics*
-
-- [8.01 Physics I: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)
-- [8.02 Physics II: Electricity And Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)
-- [8.03 Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/syllabus/)
-- [8.07 Electromagnetism II](https://www.ocw.somaliren.org.so/courses/physics/8-07-electromagnetism-ii-fall-2012/index.htm)
-
-*Quantum Physics*
-
-- [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/syllabus/)
-- [8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/syllabus/)
-- [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)
-- [8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)
+| Mathematics                  | Physics                 | Quantum Physics                                       |
+|------------------------------|---------------------------|--------------------------------------------|
+| [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/) | [8.01 Physics I: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/) | [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/syllabus/)
+| [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/) | [8.02 Physics II: Electricity And Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/) | [8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/syllabus/)
+| [18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | [8.03 Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/syllabus/) | [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)
+| [18.06 Linear Algebra (18.06)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/) | [8.07 Electromagnetism II](https://www.ocw.somaliren.org.so/courses/physics/8-07-electromagnetism-ii-fall-2012/index.htm) | [8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)
   
 ---
 
-#### [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+### [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 
 - [Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html): mainly mechanics, radiation, and heat
 - [Volume II](https://www.feynmanlectures.caltech.edu/II_toc.html): mainly electromagnetism and matter
@@ -34,7 +20,7 @@
 
 ---
 
-#### [Perimeter Scholars International's free online learning modules](https://perimeterinstitute.ca/online-courses)
+### [Perimeter Scholars International's free online learning modules](https://perimeterinstitute.ca/online-courses)
 
 - [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/quantum-field-theory-i-student)
 - [Quantum Field Theory II](https://psi-online.perimeterinstitute.ca/courses/quantum-field-theory-ii-student)
@@ -45,7 +31,7 @@
 
 ---
 
-#### [The Theoretical Minimum by Leonard Susskind](https://theoreticalminimum.com/about)
+### [The Theoretical Minimum by Leonard Susskind](https://theoreticalminimum.com/about)
 
 - [Classical Mechanics](https://theoreticalminimum.com/courses/classical-mechanics/2011/fall)
 - [Quantum Mechanics](https://theoreticalminimum.com/courses/quantum-mechanics/2012/winter)
@@ -56,7 +42,7 @@
 
 ---
 
-#### [Open HPI](https://open.hpi.de/courses)
+### [Open HPI](https://open.hpi.de/courses)
 
 *Quantum Computing*
 
@@ -69,11 +55,11 @@
 
 ---
 
-#### [IQM Academy](https://www.iqmacademy.com/)
+### [IQM Academy](https://www.iqmacademy.com/)
 
 ---
 
-#### [The Alen Turing Institute's The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
+### [The Alen Turing Institute's The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
 
 ---
 
