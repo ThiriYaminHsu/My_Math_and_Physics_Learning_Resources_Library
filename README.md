@@ -3,12 +3,28 @@
 
 ### [MIT OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
 
-| Mathematics                  | Physics                 | Quantum Physics                                       |
-|------------------------------|---------------------------|--------------------------------------------|
-| [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/) | [8.01 Physics I: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/) | [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/syllabus/)
-| [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/) | [8.02 Physics II: Electricity And Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/) | [8.044 Statistical Physics I](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/pages/syllabus/)
-| [18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | [8.03 Physics III: Vibrations And Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/syllabus/) | [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)
-| [18.06 Linear Algebra (18.06)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/) | [8.07 Electromagnetism II](https://www.ocw.somaliren.org.so/courses/physics/8-07-electromagnetism-ii-fall-2012/index.htm) | [8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)
+*Mathematics*
+- [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)  
+- [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/)  
+- [18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+- [18.05 Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)  
+- [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/)
+
+*Computer Science*
+- [6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
+- [6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)  
+- [6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2005/)  
+- [6.01SC Introduction to Electrical Engineering and Computer Science I](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)  
+
+*Physics*
+- [8.01 Physics I: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)  
+- [8.02 Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)  
+- [8.03 Physics III: Vibrations and Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/syllabus/)  
+
+*Quantum Physics*  
+- [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/syllabus/)  
+- [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)  
+- [8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)  
   
 ---
 
@@ -44,7 +60,7 @@
 
 ### [Open HPI](https://open.hpi.de/courses)
 
-*Quantum Computing*
+#### Quantum Computing
 
 - [Introduction to Quantum Computing - Part 1](https://open.hpi.de/courses/qc-intro-1-2022)
 - [Introduction to Quantum Computing - Part 2](https://open.hpi.de/courses/qc-intro-2-2022)
@@ -55,28 +71,37 @@
 
 ---
 
-### [IQM Academy](https://www.iqmacademy.com/)
+#### [Stanford Online](https://online.stanford.edu/courses/cs101-introduction-computer-science) 
 
----
-
-### [The Alen Turing Institute: The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
-
----
+#### [Harvard CS50](https://pll.harvard.edu/catalog?topics%5B702%5D=702&price%5B1%5D=1&max_price=&start_date=&keywords=&url=)
 
 #### [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
 
+#### [IQM Academy](https://www.iqmacademy.com/)
+
+#### [The Alen Turing Institute: The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
+
+#### [NPTEL Online Courses](https://nptel.ac.in/)  
+
+#### [Simons Foundation Lectures](https://www.simonsfoundation.org/science/simons-science-series/) 
+
+#### [Class Central](https://www.classcentral.com/subject/quantum-computing)
+
 #### [The Coding School](https://the-cs.org/)
 
-#### [PennyLane](https://pennylane.ai/)
+#### [Quantum Open Source Foundation (QOSF)](https://qosf.org/)  
 
 #### [Qiskit Textbook](https://github.com/qiskit-community/qiskit-textbook)
 
-#### [Ingenii](https://www.ingenii.io/)
+#### [Ingenii](https://www.ingenii.io/)  
 
-#### [QWorld]()
+#### [PennyLane](https://pennylane.ai/)  
 
-#### [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/)
-
-
+- [Quantum Country](https://quantum.country/)  
+- [Quantum Katas by Microsoft](https://github.com/microsoft/QuantumKatas)  
+- [QuEra](https://quera.com/)  
+- [Physics LibreTexts](https://phys.libretexts.org/)  
+- [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)  
+- [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/)
 
 
