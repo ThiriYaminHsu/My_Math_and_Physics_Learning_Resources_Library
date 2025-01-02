@@ -1,7 +1,8 @@
-## Open-Access CS, Math, Physics Learning Materials
+# Open-Access Learning Resources for Quantum Computing, Mathematics, and Physics
 
+*If you’d like to add to this list, feel free to submit a pull request*
 
-### [MIT OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
+## [MIT OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
 
 *Mathematics*
 - [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)  
@@ -19,18 +20,14 @@
 - [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/syllabus/)  
 - [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)  
 - [8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)
-  
----
 
-### [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+## [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 
 - [Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html): mainly mechanics, radiation, and heat
 - [Volume II](https://www.feynmanlectures.caltech.edu/II_toc.html): mainly electromagnetism and matter
 - [Volume III](https://www.feynmanlectures.caltech.edu/III_toc.html): quantum mechanics
 
----
-
-### [Perimeter Scholars International free online learning modules](https://perimeterinstitute.ca/online-courses)
+## [Perimeter Scholars International free online learning modules](https://perimeterinstitute.ca/online-courses)
 
 - [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/quantum-field-theory-i-student)
 - [Quantum Field Theory II](https://psi-online.perimeterinstitute.ca/courses/quantum-field-theory-ii-student)
@@ -39,9 +36,7 @@
 - [Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/take/statistical-physics)
 - [Theoretical Mechanics](https://psi-online.perimeterinstitute.ca/courses/theoretical-mechanics)
 
----
-
-### [The Theoretical Minimum by Leonard Susskind](https://theoreticalminimum.com/about)
+## [The Theoretical Minimum by Leonard Susskind](https://theoreticalminimum.com/about)
 
 - [Classical Mechanics](https://theoreticalminimum.com/courses/classical-mechanics/2011/fall)
 - [Quantum Mechanics](https://theoreticalminimum.com/courses/quantum-mechanics/2012/winter)
@@ -50,9 +45,7 @@
 - [Cosmology](https://theoreticalminimum.com/courses/cosmology/2013/winter)
 - [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring)
 
----
-
-### [Open HPI](https://open.hpi.de/courses)
+## [Open HPI](https://open.hpi.de/courses)
 
 - [Introduction to Quantum Computing - Part 1](https://open.hpi.de/courses/qc-intro-1-2022)
 - [Introduction to Quantum Computing - Part 2](https://open.hpi.de/courses/qc-intro-2-2022)
@@ -61,12 +54,24 @@
 - [Quantum Machine Learning (with IBM Quantum)](https://open.hpi.de/courses/qc-machineLearning2023)
 - [Quantencomputing Summer School](https://open.hpi.de/courses/summerschool2024)
 
+## [QuTech Academy](https://www.qutube.nl/home)
+
+- [Quantum 101](https://www.qutube.nl/courses-10/quantum-101)
+- [Fundamentals](https://www.qutube.nl/courses-10/fundamentals-11)
+- [Quantum Computer](https://www.qutube.nl/courses-10/quantum-computer-12)
+- [Quantum Internet](https://www.qutube.nl/courses-10/quantum-internet-14)
+- [Quantum Algorithms](https://www.qutube.nl/courses-10/quantum-algorithms)
+- [Advanced Theory](https://www.qutube.nl/courses-10/advanced-theory)
+
+## [IQM Academy](https://www.iqmacademy.com/)
+
+- [Quantum Computing 101](https://academy.meetiqm.com/curriculum/index.html)
+
 ---
 
 - [Stanford Online](https://online.stanford.edu/courses/cs101-introduction-computer-science)
 - [Harvard CS50](https://pll.harvard.edu/catalog?topics%5B702%5D=702&price%5B1%5D=1&max_price=&start_date=&keywords=&url=)
 - [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
-- [IQM Academy](https://www.iqmacademy.com/)
 - [The Alen Turing Institute: The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
 - [Simons Foundation Lectures](https://www.simonsfoundation.org/science/simons-science-series/)
 - [Class Central](https://www.classcentral.com/subject/quantum-computing)
