@@ -81,8 +81,6 @@
 
 #### [The Alen Turing Institute: The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
 
-#### [NPTEL Online Courses](https://nptel.ac.in/)  
-
 #### [Simons Foundation Lectures](https://www.simonsfoundation.org/science/simons-science-series/) 
 
 #### [Class Central](https://www.classcentral.com/subject/quantum-computing)
