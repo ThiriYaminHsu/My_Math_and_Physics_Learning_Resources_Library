@@ -20,7 +20,7 @@
 
 ---
 
-### [Perimeter Scholars International's free online learning modules](https://perimeterinstitute.ca/online-courses)
+### [Perimeter Scholars International free online learning modules](https://perimeterinstitute.ca/online-courses)
 
 - [Quantum Field Theory I](https://psi-online.perimeterinstitute.ca/courses/quantum-field-theory-i-student)
 - [Quantum Field Theory II](https://psi-online.perimeterinstitute.ca/courses/quantum-field-theory-ii-student)
@@ -59,7 +59,7 @@
 
 ---
 
-### [The Alen Turing Institute's The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
+### [The Alen Turing Institute: The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
 
 ---
 
