@@ -5,6 +5,7 @@
 ## [MIT OpenCourseWare](https://www.ocw.somaliren.org.so/courses/find-by-topic/#cat=science&subcat=physics&spec=theoreticalphysics)
 
 *Mathematics*
+
 - [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)  
 - [18.02 Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/)  
 - [18.03 Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
@@ -12,14 +13,25 @@
 - [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/)
 
 *Physics*
+
 - [8.01 Physics I: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)  
 - [8.02 Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)  
 - [8.03 Physics III: Vibrations and Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/syllabus/)  
-
-*Quantum Physics*  
 - [8.04 Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/syllabus/)  
 - [8.05 Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)  
 - [8.06 Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)
+- [8.321 Quantum Theory I](https://ocw.mit.edu/courses/8-321-quantum-theory-i-fall-2017/)
+- [8.322 Quantum Theory II](https://ocw.mit.edu/courses/8-322-quantum-theory-ii-spring-2003/)
+- [5.73 Quantum Mechanics I](https://ocw.mit.edu/courses/5-73-quantum-mechanics-i-fall-2018/)
+
+*Computer Science*
+
+- [18.435J Quantum Computation](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/)
+- [18.404J Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+- [6.845 Quantum Complexity Theory](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/)
+- [MAS.865J Quantum Information Science](https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/)
+- [8.370x Quantum Information Science I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
+- [8.371x Quantum Information Science II](https://ocw.mit.edu/courses/8-371x-quantum-information-science-ii-spring-2018/)
 
 ## [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 
@@ -87,4 +99,11 @@
 - [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)  
 - [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/)
 
+---
+
+## Textbooks
+-
+-
+-
+---
 
